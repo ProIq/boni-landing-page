@@ -1,0 +1,83 @@
+.header{
+    position: absolute;
+    width: 100vw;
+    height: 61px;
+    left: 0px;
+    top: 0px;
+    background: #390099;
+    display: flex;
+}
+.vector{
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 155px;
+    top: 17px;
+}
+.english{
+    position: absolute;
+    width: 79px;
+    height: 26px;
+    left: 201px;
+    top: 17px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    letter-spacing: 0.001em;
+    color: #FFFFFF;
+}
+.down{
+    position: absolute;
+    width: 17.5px;
+    height: 8.75px;
+    left: 282.25px;
+    top: 28px;
+}
+.message{
+    position: absolute;
+    width: 28px;
+    height: 20px;
+    left: 818px;
+    top: 20px;
+}
+.contact{
+    position: absolute;
+    width: 187px;
+    height: 22px;
+    left: 866px;
+    top: 19px;
+
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    letter-spacing: 0.001em;
+
+    color: #FFFFFF;
+
+}
+.chat{
+    position: absolute;
+    width: 37.55px;
+    height: 37.56px;
+    left: 1071.01px;
+    top: 11.51px;
+}
+.whatsapp{
+    position: absolute;
+    width: 98px;
+    height: 22px;
+    left: 1110.23px;
+    top: 19px;
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.001em;
+    color: #FFFFFF;
+}

@@ -1,0 +1,70 @@
+.nav{
+    position: absolute;
+width: 1228px;
+height: 111px;
+left: 0px;
+top: 61px;
+background: #FFFFFF;
+}
+.boni1{
+    position: absolute;
+    width: 124px;
+    height: 54px;
+    left: 100px;
+    top: 9px;
+}
+.about-us{
+    position: absolute;
+    left: 300px;
+    top: 30px;
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 26px;
+    letter-spacing: 0.001em;
+
+    color: #BABABA;
+}
+.contact-us{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 26px;
+    letter-spacing: 0.001em;
+    position:absolute;
+    left:450px;
+    top:30px;
+    color: #BABABA;
+}
+.download{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 17px 27px;
+    gap: 13px;
+
+    position: absolute;
+    width: 254px;
+    height: 60px;
+    right:101px;
+    top: 15px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 26px;
+    letter-spacing: 0.001em;
+    outline: none;
+    color: #FFFFFF;
+    background: #FF0054;
+    border-radius: 55px;
+}
+.lo{
+    display:flex ;
+    flex-direction: column;
+    justify-content: center;
+}
+.low{
+    transform: rotate(180deg);
+}

@@ -1,0 +1,92 @@
+.play-ground{
+    position: absolute;
+    width:100vw;
+    height: 1236.69px;
+    left: 0.5px;
+    top: 4524.66px;
+    background: #390099;
+    overflow: hidden;
+}
+.grad {
+    border-radius: 100%;
+    position: absolute;
+    width: 681.5px;
+    height: 828.17px;
+    right: -193px;
+    top: -73.04px;
+    background: linear-gradient(210.94deg, #DCDAFF 0%, rgba(174, 168, 255, 0.913542) 0.01%, rgba(177, 171, 255, 0.45) 83.4%);
+    transform: rotate(243deg);
+}
+.img1{
+    background: url("./images/left.png");
+    position: absolute;
+    width: 190.99px;
+    height: 480.83px;
+    left: 163.16px;
+    top: 417.18px;
+    mix-blend-mode: normal;
+    z-index: 2;
+}
+.img2{
+    background: url("./images/right.png");
+    position: absolute;
+    width: 191.56px;
+    height: 480.18px;
+    left: 406.08px;
+    top: 420.09px;
+    mix-blend-mode: normal;
+    z-index: 2;
+    mix-blend-mode: normal;
+    z-index: 2;
+    
+}
+.main1{
+    z-index: 1;
+    position: absolute;
+    width: 217.35px;
+    height: 507.19px;
+    left: 157.11px;
+    top: 405px;
+    background:url("./images/main.png");
+}
+.main2{
+    z-index: 1;
+    background: url("./images/main1.png");
+    position: absolute;
+    width: 217.47px;
+    height: 505.05px;
+    left: 388.27px;
+    top: 404.48px;
+}
+.text-play{
+    position: absolute;
+    width: 387px;
+    height: 451px;
+    left: 632.33px;
+    top: 433.11px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 42px;
+    line-height: 79px;
+    letter-spacing: 0.001em;
+    color: #FFFFFF;
+}
+.grad1{
+    position: absolute;
+    width: 529.89px;
+    height: 676.51px;
+    left: 0.5px;
+    top: 736.8px;
+    background: linear-gradient(39.94deg, #C9C5FF 0%, rgba(174, 168, 255, 0.913542) 0.01%, rgba(177, 171, 255, 0.55) 81.1%);
+    border-radius: 100%;
+    transform: rotate(63deg);
+}
+.play-badge{
+    position: absolute;
+    width: 285.94px;
+    height: 110.66px;
+    left: 615.35px;
+    top: 766.52px;
+    background: url("./images/play-badge.png");
+}

@@ -1,0 +1,25 @@
+.body{
+    position: absolute;
+    width:84vw;
+    height: 854px;
+    left: 105px;
+    top: 172px;
+    background: url("./images/slide.png");
+    border-radius: 53px;
+}
+.content{
+    position: absolute;
+    width: 600px;
+    height: 384px;
+    left: 104px;
+    top: 190px;
+
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 96px;
+    letter-spacing: 0.001em;
+
+    color: #FFFFFF;
+}

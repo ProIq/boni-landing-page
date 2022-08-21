@@ -1,0 +1,441 @@
+.container{
+    position:relative;
+    width:100vw;
+    display: flex;
+    flex-direction: column;
+    height:200vh;
+    left: 0px;
+    top: 1127.98px;
+    background: #E8DAFF;
+}
+.round{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height:600px;
+    border-radius: 100%;
+    border-top-left-radius: 0%;
+    border-top-right-radius: 0%;
+    background-color: #FFFF;
+}
+.circle{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    position:relative;
+    /* position: absolute; */
+    width: 250px;
+    height: 250px;
+    /* left: 469px;
+    top: 28.82px; */
+    background: #FF73A1;
+    border: 2px dashed #FF0054;
+    border-radius: 100%;
+}
+.text{
+    /* width: 97px;
+    height: 36px; */
+    position: absolute;
+    top:30px;
+    left:26px;
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    /* identical to box height */
+    text-align: center;
+    letter-spacing: 0.001em;
+    color: #FFFFFF;
+}
+.content1{
+    /* width: 196.41px;
+    height: 42px; */
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 131.5%;
+    text-align: center;
+    letter-spacing: 0.001em;
+    color: #FFFFFF;
+}
+.cont{
+    position: relative;
+    text-align: center;   
+}
+.head{
+    position: absolute;
+    left: 460px;
+    top: 60.65px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 55px;
+    line-height: 67px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.001em;
+
+    color: #390099;
+}
+.material{
+    position: absolute;
+    width: 743px;
+    height: 80px;
+    left:250.27px;
+    top: 150.55px;
+    
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 133%;
+    /* or 40px */
+    
+    text-align: center;
+    letter-spacing: 0.001em;
+    
+    color: #474747;
+}
+.path{
+    position: relative;
+    z-index: 3;
+    width: 830.41px;
+    height: 282.22px;
+    left: 26px;
+    top: 340.45px;
+}
+.Boni{
+    position: relative;
+    z-index: 2;
+    width: 386.87px;
+    height: 407.87px;
+    left: 170px;
+    top: 30.47px;
+    background: #FFFFFF;
+    border: 2px dashed #C4C4C4;
+    border-radius: 20px;
+}
+.boni{
+    position: absolute;
+    width: 170.17px;
+    height: 36px;
+    left: 104px;
+    top: 298px;
+    
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 135.9%;
+    /* or 33px */
+    
+    text-align: center;
+    letter-spacing: 0.001em;
+    
+    color: #474747;
+    
+}
+.bino{
+    position:relative;
+    width: 386.87px;
+    height: 407.87px;
+    left: 730.33px;
+    top: -376.47px;
+    
+    background: #FFFFFF;
+    border: 2px dashed #C4C4C4;
+    border-radius: 20px;
+}
+.Bino{
+    position: absolute;
+    width: 239.99px;
+    height: 66px;
+    left:62px;
+    top:295px;
+    
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 135.9%;
+    /* or 33px */
+    
+    text-align: center;
+    letter-spacing: 0.001em;
+    
+    color: #474747;
+}
+.button1{
+    position: absolute;
+    width: 220px;
+    height: 62.84px;
+    left: 250.67px;
+    top: 1081.95px;
+    background: #FF0054;
+    border-radius: 44.5902px;
+}
+.button2{
+    position: absolute;
+    width: 220px;
+    height: 62.84px;
+    left: 810.67px;
+    top: 1081.95px;
+    background: #FF0054;
+    border-radius: 44.5902px;
+}
+.get-app{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 135.9%;
+    /* identical to box height, or 34px */
+    
+    text-align: center;
+    letter-spacing: 0.001em;
+    
+    color: #FFFFFF;
+}
+
+.why-boni{
+    background-color: #FFFF;
+    height:200vh;
+    width:100vw;
+}
+.text1{
+    position: absolute;
+    width: 323px;
+    height: 67px;
+    left: 490.5px;
+    top: 2455.44px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 55px;
+    line-height: 67px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.001em;
+
+    color: #390099;
+}
+.text2{
+    position: absolute;
+    width: 749.4px;
+    height: 82px;
+    left: 300.3px;
+    top: 2574.73px;
+    
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 135.9%;
+    /* or 41px */
+    
+    text-align: center;
+    letter-spacing: 0.001em;
+    
+    color: #474747;
+}
+.circle1{
+    display: flex;
+    align-items:calc(60px);
+    justify-content: center;
+    text-align: center;
+    position:relative;
+    width: 198.98px;
+    height: 198.98px;
+    left: 564.51px;
+    top: 1427.5px;
+    border-radius: 100%;
+    background: #FF0054;
+}
+.exclaim{
+    position: absolute;
+    width: 805.01px;
+    height: 479.43px;
+    left: 264.99px;
+    top: 2916.12px;
+    background: #FFFFFF;
+    border: 2px dashed #C4C4C4;
+    border-radius: 46px;
+}
+.income{
+    position: absolute;
+    width: 451.48px;
+    height: 82px;
+    left: 151.26px;
+    top: 59.06px;
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 135.9%;
+    /* or 41px */
+    
+    text-align: center;
+    letter-spacing: 0.001em;
+    
+    color: #474747;
+    
+}
+.disclaimer1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 104px;
+    height: 104px;
+    left: 77.43px;
+    top: 262.08px;
+    background: #FF6E6E;
+    border-radius: 100%;
+}
+.disclaim1{
+    font-size:100px;
+    font-weight: 800;
+    color:white;
+}
+
+.disclaimer2{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 104px;
+    height: 104px;
+    left: 255.43px;
+    top: 262.08px;
+    background:#25B39E;
+    border-radius: 100%;
+}
+.disclaimer3{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 104px;
+    height: 104px;
+    left: 450.43px;
+    top: 262.08px;
+    background: #F8B84E;
+    border-radius: 100%;
+}
+.disclaimer4{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 104px;
+    height: 104px;
+    left: 630.43px;
+    top: 262.08px;
+    background: #4BBFEB;
+    border-radius: 100%;
+}
+.d1-text{
+    position: absolute;
+    top: 392px;
+    width: 145px;
+    left: 61px;
+    top: 376.08px;  
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 135.9%;
+    /* or 27px */
+
+    text-align: center;
+    letter-spacing: 0.001em;  
+}
+.d2-text{
+    position: absolute;
+    top: 392px;
+    width: 162px;
+    left: 229px;
+    top: 376.08px;  
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 135.9%;
+    /* or 27px */
+
+    text-align: center;
+    letter-spacing: 0.001em;  
+}
+.d3-text{
+    position: absolute;
+    top: 392px;
+    width: 162px;
+    left: 425px;
+    top: 376.08px;  
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 135.9%;
+    /* or 27px */
+
+    text-align: center;
+    letter-spacing: 0.001em;  
+}
+.d4-text{
+    position: absolute;
+    top: 392px;
+    width: 162px;
+    left: 601px;
+    top: 376.08px;  
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 135.9%;
+    /* or 27px */
+
+    text-align: center;
+    letter-spacing: 0.001em;  
+}
+.circle1-text1{
+    position: absolute;
+    top:10px;
+    left: auto;
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 135.9%;
+    /* identical to box height, or 41px */
+
+    letter-spacing: 0.001em;
+
+    color: #FFFFFF;
+}
+.circle1-text2{
+    position: absolute;
+    top: 108px;
+    left: 36px;
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 135.9%;
+    /* or 20px */
+    
+    text-align: center;
+    letter-spacing: 0.001em;
+    
+    color: #FFFFFF;
+}
