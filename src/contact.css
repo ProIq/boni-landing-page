@@ -30,7 +30,7 @@
 }
 .contact-details{
     position: absolute;
-    top: 123px;
+    top: 71px;
     left: 322px;
     width: 593px;
     height: 428px;
@@ -41,8 +41,156 @@
 .oongli-1{
     background: url("./images/oongli1.png");
     position: absolute;
-    width: 423.19px;
-    height: 641.83px;
-    left: 179.86px;
-    top: 92.45px;
+    left: 774px;
+    top: -132px;
+    width: 424px;
+    z-index: -1;
+    height:644px;
+}
+.oongli-2{
+    background: url("./images/oongli2.png");
+    position: absolute;
+    top: 302px;
+    left: -24px;
+    width: 500px;
+    height: 384px;
+    transform: rotate(8deg);
+    z-index: -1;
+}
+.say-hi{
+    position: absolute;
+    width: 423px;
+    height: 30px;
+    left: 82px;
+    top: 35.87px;
+
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    /* identical to box height */
+
+    letter-spacing: 0.001em;
+
+    color: #474747;
+
+}
+.mess{
+    position: absolute;
+    width: 288px;
+    height: 55px;
+    left: 178.17px;
+    top: 83px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 22px;
+    letter-spacing: 0.001em;
+    /* background-color: #000000; */
+    background: url("./images/mess.png");
+    color: #000000;
+}
+.time{
+    display: flex;
+    position: absolute;
+    width: 58px;
+    height: 19px;
+    left: 181.87px;
+    top: 30px;
+    
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    letter-spacing: 0.001em;
+    
+    color: #8696A0;
+}
+.busy{
+    position: absolute;
+    top:12px;
+    left:37px;
+
+}
+.what-app{
+    position: absolute;
+    width: 391px;
+    height: 70px;
+    left: 98px;
+    top: 149px;
+    background: linear-gradient(178.18deg, #58D163 1.54%, #2BB741 98.46%);
+    box-shadow: 2px 2px 6px rgb(0 0 0 / 25%);
+    border-radius: 60px;
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    letter-spacing: 0.001em;
+    color: white;
+}
+.kit{
+    background: url("./images/call.png");
+    height: 39px;
+    width: 40px;
+    top: 10px;
+    position: absolute;
+    left: 46px;
+}
+.phone{
+    background: url("./images/phone.png");
+    position: absolute;
+    top: 22px;
+    left: 55px;
+    height: 19px;
+    width: 20px;
+}
+.or{
+    position: absolute;
+    top: 231px;
+    left: 264px;
+    font-size: large;
+}
+.tell-number{
+    position: absolute;
+    width: 186px;
+    height: 78px;
+    left: 186px;
+    top: 291.92px;
+    
+    font-family: 'Stolzl';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    /* identical to box height */
+    
+    text-align: center;
+    letter-spacing: 0.001em;
+    
+    color: #474747;
+}
+.tell-no{
+    position: absolute;
+    width: 385.38px;
+    height: 68.46px;
+    left: 96.31px;
+    top: 326.78px;
+    background: #4300B3;
+    border-radius: 44.8083px;
+    color: white;
+    font-size: xx-large;
+}
+.callcentre{
+    background: url("./images/callcentre.png");
+    position: absolute;
+    height: 41px;
+    width: 41px;
+    top: 13px;
+    left: 52px;
 }
